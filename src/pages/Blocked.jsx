@@ -50,7 +50,6 @@ function Blocked() {
 
   const blocked = [
     {fname: 'Justine', mname: 'Ribano', lname: 'Santos', gender: 'Male', age: '21', status: 'Active'},
-    {fname: 'Justine', mname: 'Ribano', lname: 'Santos', gender: 'Male', age: '21', status: 'Active'},
   ];
 
   const totalPages = Math.ceil(blocked.length / entriesToShow);

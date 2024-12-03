@@ -8,7 +8,7 @@ function NewSidebar({ isSidebarOpen, activeSection, setActiveSection }) {
     
     const menuItems = [
         { label: 'Dashboard', icon: <RxDashboard /> },
-        { label: 'Residence Record', icon: <FaUsers /> },
+        // { label: 'Residence Record', icon: <FaUsers /> },
         { label: 'Certificates', icon: <FaCertificate /> },
         { label: 'Officials', icon: <FaUserTie /> },
         { label: 'Announcement', icon: <FaBullhorn /> },
